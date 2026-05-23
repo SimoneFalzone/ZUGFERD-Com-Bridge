@@ -1,0 +1,14 @@
+/Users/simonefalzone/RiderProjects/ZUGFeRD/ZUGFeRD/bin/Debug/net10.0/ZUGFeRD
+/Users/simonefalzone/RiderProjects/ZUGFeRD/ZUGFeRD/bin/Debug/net10.0/ZUGFeRD.deps.json
+/Users/simonefalzone/RiderProjects/ZUGFeRD/ZUGFeRD/bin/Debug/net10.0/ZUGFeRD.runtimeconfig.json
+/Users/simonefalzone/RiderProjects/ZUGFeRD/ZUGFeRD/bin/Debug/net10.0/ZUGFeRD.dll
+/Users/simonefalzone/RiderProjects/ZUGFeRD/ZUGFeRD/bin/Debug/net10.0/ZUGFeRD.pdb
+/Users/simonefalzone/RiderProjects/ZUGFeRD/ZUGFeRD/obj/Debug/net10.0/ZUGFeRD.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simonefalzone/RiderProjects/ZUGFeRD/ZUGFeRD/obj/Debug/net10.0/ZUGFeRD.AssemblyInfoInputs.cache
+/Users/simonefalzone/RiderProjects/ZUGFeRD/ZUGFeRD/obj/Debug/net10.0/ZUGFeRD.AssemblyInfo.cs
+/Users/simonefalzone/RiderProjects/ZUGFeRD/ZUGFeRD/obj/Debug/net10.0/ZUGFeRD.csproj.CoreCompileInputs.cache
+/Users/simonefalzone/RiderProjects/ZUGFeRD/ZUGFeRD/obj/Debug/net10.0/ZUGFeRD.dll
+/Users/simonefalzone/RiderProjects/ZUGFeRD/ZUGFeRD/obj/Debug/net10.0/refint/ZUGFeRD.dll
+/Users/simonefalzone/RiderProjects/ZUGFeRD/ZUGFeRD/obj/Debug/net10.0/ZUGFeRD.pdb
+/Users/simonefalzone/RiderProjects/ZUGFeRD/ZUGFeRD/obj/Debug/net10.0/ZUGFeRD.genruntimeconfig.cache
+/Users/simonefalzone/RiderProjects/ZUGFeRD/ZUGFeRD/obj/Debug/net10.0/ref/ZUGFeRD.dll

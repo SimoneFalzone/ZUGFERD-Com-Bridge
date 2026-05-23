@@ -1,0 +1,9 @@
+/Users/simonefalzone/RiderProjects/ZUGFeRD/ZUGFeRD/obj/Debug/net48/ZUGFeRD.csproj.AssemblyReference.cache
+/Users/simonefalzone/RiderProjects/ZUGFeRD/ZUGFeRD/obj/Debug/net48/ZUGFeRD.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simonefalzone/RiderProjects/ZUGFeRD/ZUGFeRD/obj/Debug/net48/ZUGFeRD.csproj.CoreCompileInputs.cache
+/Users/simonefalzone/RiderProjects/ZUGFeRD/ZUGFeRD/bin/Debug/net48/ZUGFeRDBridge.dll
+/Users/simonefalzone/RiderProjects/ZUGFeRD/ZUGFeRD/bin/Debug/net48/ZUGFeRDBridge.pdb
+/Users/simonefalzone/RiderProjects/ZUGFeRD/ZUGFeRD/bin/Debug/net48/s2industries.ZUGFeRD.dll
+/Users/simonefalzone/RiderProjects/ZUGFeRD/ZUGFeRD/obj/Debug/net48/ZUGFeRD.csproj.Up2Date
+/Users/simonefalzone/RiderProjects/ZUGFeRD/ZUGFeRD/obj/Debug/net48/ZUGFeRDBridge.dll
+/Users/simonefalzone/RiderProjects/ZUGFeRD/ZUGFeRD/obj/Debug/net48/ZUGFeRDBridge.pdb

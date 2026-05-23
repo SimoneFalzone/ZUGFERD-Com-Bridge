@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fcmETwnjchk=",
+  "success": true,
+  "projectFilePath": "/Users/simonefalzone/RiderProjects/ZUGFeRD/ZUGFeRD/ZUGFeRD.csproj",
+  "expectedPackageFiles": [
+    "/Users/simonefalzone/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.3/microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "/Users/simonefalzone/.nuget/packages/microsoft.netframework.referenceassemblies.net48/1.0.3/microsoft.netframework.referenceassemblies.net48.1.0.3.nupkg.sha512",
+    "/Users/simonefalzone/.nuget/packages/zugferd-csharp/18.0.0/zugferd-csharp.18.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

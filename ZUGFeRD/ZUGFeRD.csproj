@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <OutputType>Library</OutputType>
+        <TargetFramework>net48</TargetFramework>
+        <ImplicitUsings>disable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <LangVersion>latest</LangVersion>
+        <AssemblyName>ZUGFeRDBridge</AssemblyName>
+        <RootNamespace>ZUGFeRDBridge</RootNamespace>
+        <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+        <RegisterForComInterop>false</RegisterForComInterop>
+        <Platforms>AnyCPU;x86</Platforms>
+    </PropertyGroup>
+    <ItemGroup>
+        <PackageReference Include="ZUGFeRD-csharp" Version="18.0.0" />
+    </ItemGroup>
+</Project>
